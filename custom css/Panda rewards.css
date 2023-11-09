@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightcyan;
+}
+a {
+  text-decoration: none;
+}
+/* header section start */
+.icofont-bag,
+.icofont-user,
+.icofont-world {
+  font-size: 30px;
+  color: rgb(224, 10, 153);
+}
+.profile li a i {
+  font-size: 25px;
+  color: rgb(194, 7, 116);
+  margin-right: 5px;
+}
+
+.icofont-world {
+  font-size: 30px;
+  color: rgb(224, 10, 153);
+  margin-right: 6px;
+}
+.navbar {
+  background-color: rgb(254, 254, 254);
+}
+.navbar-brand img {
+  width: 180px;
+  height: 40px;
+}
+.nav-link {
+  font-size: 18px;
+  color: black;
+}
+/* header section end */
+.rewards-section {
+  background-color: rgb(209, 7, 118);
+}
+.rewards-banner {
+  width: 1000px;
+  margin: auto;
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  padding: 20px;
+}
+.panda-section{
+background-color: aliceblue;
+}
+.completet {
+  width: 1000px;
+  margin: auto;
+}
+.card {
+  padding: 20px;
+  border-radius: 15px;
+}
+.card img {
+  width: 120px;
+  height: 120px;
+}
+.card-fotter {
+  margin-left: 15px;
+}
+.badges {
+  width: 1000px;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  margin: 50px auto;
+  box-shadow: 5px 5px 10px gray;
+}
+.badges img {
+  width: 120px;
+  height: 120px;
+}
+.panda {
+  width: 1000px;
+  margin: auto;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+}.gift-box{
+  padding: 20px;
+  background-color: white;
+  border-radius:20px;
+}
+.gift{
+  width: 800px;
+  margin: auto;
+}
+.gift-img {
+  width: 150px;
+  height: 150px;
+}
+/* footer section start */
+.footer-section {
+  background-color: azure;
+}
+.logo img {
+  width: 180px;
+  height: 40px;
+}
+.icon i {
+  font-size: 30px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+}
+.country {
+  border-right: 1px solid #ddd;
+}
+
+/* footer section end */
